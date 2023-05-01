@@ -11,7 +11,7 @@ Before a lecture expires it notifies the lecturer and the class representative 1
 before and both of them have the rights to extend the class.
 The app uses notifications to alert all users when a class is scheduled.<br>
 The app also contains Kibabii University facilities on a google maps plus other additional features <br>
-
+thus can be used for orientation of the of the first years.<br>
 
 
 
