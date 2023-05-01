@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529781140462",
+    "project_id": "kibu-rahisi-131bf",
+    "storage_bucket": "kibu-rahisi-131bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529781140462:android:ac9e886fedc7d4b693bcff",
+        "android_client_info": {
+          "package_name": "com.anthonymwangi.kibu_rahisi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529781140462-gqpqgm2e96ms2kl7coqo5nunkeedqbfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ZXqKyrh6O8rp-OZB1g0_NmaaJV062nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529781140462-gqpqgm2e96ms2kl7coqo5nunkeedqbfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
