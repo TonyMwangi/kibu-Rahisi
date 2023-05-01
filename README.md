@@ -8,6 +8,7 @@ This helps solve the problem of moving up and down the academic block looking<br
 for empty classes in order to schedule classes there. <br>A class has its detail and status and can only be allocated onces. <br>
 A lecture expires as per the lecture lenghth which is set during its scheduling.
 Before a lecture expires it notifies the lecturer and the class representative 10 minutes <br>
+before and both of them have the rights to extend the class.
 
 
 
