@@ -5,4 +5,5 @@ Therefore Kibu Rahisi as the title of my project means creating a simpler Kibabi
 Its about developing a mobile application that will use current technology to assist class representative in the university <br>
 to schedule classes online with ease, solving the problem of moving up and down the academic block manually looking<br>
 for empty classes to schedule a class there. <br>
+The app uses notifications to alert all users when a class is scheduled. <br>
 
