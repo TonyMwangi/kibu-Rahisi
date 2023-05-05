@@ -15,6 +15,7 @@ for empty classes in order to schedule classes there. <br>
 thus can be used for orientation of the of the first years.<br>
 * The app will be implemented in modules where the first module implement the academic block facility usage.
 * A class has its detail and status and can only be allocated onces.
+* A lecture expires as per the lecture lenghth which is set during its scheduling. Before a lecture expires it notifies the lecturer and the class representative 10 minutes
 
 
 
