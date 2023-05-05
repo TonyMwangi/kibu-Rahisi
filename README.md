@@ -5,9 +5,9 @@
 * Its about developing a mobile application that will leverage current technology to assist class representative in the university <br>
  to schedule classes online with ease. <br><br>
 * This helps solve the problem of moving up and down the academic block looking<br>
-for empty classes in order to schedule classes there. <br>
-* A class has its detail and status and can only be allocated onces. <br>
-* A lecture expires as per the lecture lenghth which is set during its scheduling. <br>
+for empty classes in order to schedule classes there. <br><br>
+* A class has its detail and status and can only be allocated onces. <br><br>
+* A lecture expires as per the lecture lenghth which is set during its scheduling. <br><br>
 * Before a lecture expires it notifies the lecturer and the class representative 10 minutes before and both of them <br>
  have the rights to extend the class. <br>
 * The app uses notifications to alert all users when a class is scheduled.<br>
