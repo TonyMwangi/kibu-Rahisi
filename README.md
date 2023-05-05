@@ -14,6 +14,7 @@ for empty classes in order to schedule classes there. <br>
 * The app also contains Kibabii University facilities on a google maps plus other additional features <br>
 thus can be used for orientation of the of the first years.<br>
 * The app will be implemented in modules where the first module implement the academic block facility usage.
+* A class has its detail and status and can only be allocated onces.
 
 
 
