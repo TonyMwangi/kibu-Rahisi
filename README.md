@@ -20,6 +20,6 @@ thus can be used for orientation of the of the first years.<br>
 * The app uses notifications to alert all users when a class is scheduled. <br>
 * The app also contains Kibabii University facilities on a google maps plus other additional features
 thus can be used for orientation of the of the first years. <br>
-The app will be implemented in modules where the first module implement the academic block facility usage.
+* The app will be implemented in modules where the first module implement the academic block facility usage.
 
 
