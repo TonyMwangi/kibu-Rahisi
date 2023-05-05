@@ -11,9 +11,9 @@ for empty classes in order to schedule classes there. <br>
 * Before a lecture expires it notifies the lecturer and the class representative 10 minutes before and both of them <br>
  have the rights to extend the class.
 * The app uses notifications to alert all users when a class is scheduled.<br>
-The app also contains Kibabii University facilities on a google maps plus other additional features <br>
+* The app also contains Kibabii University facilities on a google maps plus other additional features <br>
 thus can be used for orientation of the of the first years.<br>
-The app will be implemented in modules where the first module implement the academic block facility usage.
+* The app will be implemented in modules where the first module implement the academic block facility usage.
 
 
 
